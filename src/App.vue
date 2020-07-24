@@ -11,7 +11,7 @@
       align="center"
       justify="center"
       >
-        <img class="mr-3" :src="require('./assets/gass.png')" height="90"/>
+        <img class="mr-3" :src="require('./assets/gass.png')" height="120"/>
       <h1 class="fontAlter font-weight-black">Geo Africa Science Society</h1>
       </v-row>
     </div>
@@ -61,6 +61,8 @@
   </v-carousel>
   </div>
   </v-div>
+
+  
 
   <Footer/>
   </v-app>
