@@ -7,6 +7,7 @@
       flat
       tile
       class="deep-purple accent-4 white--text text-center"
+      style="width:100%"
     >
       <v-card-text>
         <v-btn
@@ -28,9 +29,8 @@
       <div class="col-md-4 mx-auto">
 
         <!-- Content -->
-        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Footer Content</h5>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam perferendis at consequatur provident id? Sunt vitae impedit laudantium id quis sint fugit repellat earum cumque! Consequatur explicabo hic quidem delectus?</p>
-
+        <p class="h5 font-italic mt-9 mb-6">"Reason, observation, and experience; the holy trinity of science."</p>
+        <p class="">Robert Green Ingersoll</p>
       </div>
       <!-- Grid column -->
 
@@ -40,20 +40,31 @@
       <div class="col-md-2 mx-auto">
 
         <!-- Links -->
-        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">GASS</h5>
 
         <ul class="list-unstyled">
           <li>
-            <a href="#!">Link 1</a>
+            <a href="#!" style="color:white">History</a>
           </li>
           <li>
-            <a href="#!">Link 2</a>
+            <a href="#!" style="color:white">Mission and Objectives</a>
           </li>
           <li>
-            <a href="#!">Link 3</a>
+            <a href="#!" style="color:white">Status</a>
           </li>
           <li>
-            <a href="#!">Link 4</a>
+            <a href="#!" style="color:white">Rules</a>
+          </li>
+          <li>
+            <a href="#!" style="color:white">Members</a>
+            <ul class="list-unstyled">
+              <li>
+                <a href="#!" style="color:white">Founders members</a>
+              </li> 
+              <li>
+                <a href="#!" style="color:white">Associate members</a>
+              </li> 
+            </ul>
           </li>
         </ul>
 
@@ -66,21 +77,21 @@
       <div class="col-md-2 mx-auto">
 
         <!-- Links -->
-        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">ACTIVITIES</h5>
 
         <ul class="list-unstyled">
           <li>
-            <a href="#!">Link 1</a>
+            <a href="#!" style="color: white">Link 1</a>
           </li>
           <li>
-            <a href="#!">Link 2</a>
+            <a href="#!" style="color: white">Link 2</a>
           </li>
           <li>
-            <a href="#!">Link 3</a>
+            <a href="#!" style="color: white">Link 3</a>
           </li>
           <li>
-            <a href="#!">Link 4</a>
-          </li>
+            <a href="#!" style="color: white">Link 4</a>
+          </li>  
         </ul>
 
       </div>
@@ -92,20 +103,20 @@
       <div class="col-md-2 mx-auto">
 
         <!-- Links -->
-        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">PUBLICATIONS</h5>
 
         <ul class="list-unstyled">
           <li>
-            <a href="#!">Link 1</a>
+            <a href="#!" style="color: white">Link 1</a>
           </li>
           <li>
-            <a href="#!">Link 2</a>
+            <a href="#!" style="color: white">Link 2</a>
           </li>
           <li>
-            <a href="#!">Link 3</a>
+            <a href="#!" style="color: white">Link 3</a>
           </li>
           <li>
-            <a href="#!">Link 4</a>
+            <a href="#!" style="color: white">Link 4</a>
           </li>
         </ul>
 

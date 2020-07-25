@@ -12,7 +12,7 @@
       justify="center"
       >
         <img class="mr-3" :src="require('./assets/gass.png')" height="120"/>
-      <h1 class="fontAlter font-weight-black">Geo Africa Science Society</h1>
+      <h1 class="fontAlter font-weight-black">Geo Africa Sciences Society</h1>
       </v-row>
     </div>
     
@@ -27,7 +27,7 @@
     width="100%"
     height="35px"
     >
-    <div style="width: 80%; margin:0 auto"><p class="text-subtitle-1" style="color: white"><marquee> STAY AT HOME. SAVE LIVES. HELP STOP THE CORONAVIRUS. <i class="fas fa-clinic-medical"></i></marquee></p></div>
+    <div style="width: 80%; margin:0 auto"><p class="text-subtitle-1" style="color: white"><marquee> RESPECT PREVENTION MEASURES. SAVE LIVES. HELP STOP THE CORONAVIRUS. <i class="fas fa-clinic-medical"></i></marquee></p></div>
     </v-sheet>
     </v-row>
 
