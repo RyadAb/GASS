@@ -1,7 +1,6 @@
 {
-  "name": "gass-master1",
+  "name": "gass-master",
   "version": "0.1.0",
-  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -52,19 +51,19 @@
     "last 2 versions",
     "not dead"
   ],
-  "description": "## Project setup ``` npm install ```",
+  "description": "## Gass ",
   "main": "babel.config.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RyadAb/gass-master.git"
   },
-  "author": "R",
-  "license": "ISC",
+  "keywords": [
+    "uniqid"
+  ],
+  "author": "Ryad",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RyadAb/GASS/issues"
+    "url": "https://github.com/RyadAb/gass-master/issues"
   },
-  "homepage": "https://github.com/RyadAb/GASS#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ryadab"
-  }
+  "homepage": "https://github.com/RyadAb/gass-master#readme"
 }
