@@ -1,5 +1,5 @@
 {
-  "name": "@ryadab/gass-master",
+  "name": "gass-master1",
   "version": "0.1.0",
   "private": false,
   "scripts": {
@@ -63,5 +63,8 @@
   "bugs": {
     "url": "https://github.com/RyadAb/GASS/issues"
   },
-  "homepage": "https://github.com/RyadAb/GASS#readme"
+  "homepage": "https://github.com/RyadAb/GASS#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ryadab"
+  }
 }
